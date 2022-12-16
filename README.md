@@ -15,4 +15,4 @@ Using different softwares, tools & applications for this project, it has been ex
   - Preparation of Entity-Relationship Diagram and Data Flow Diagram using Lucid Chart & MS Visio
 
 **4. Implementaion**
-  - Preparation of [python scripts](https://github.com/jivaniyash/MyMeet-Database-Project/tree/main/python%20files) for creation of SQLite database using randomly generated synthetic data
+  - Preparation of [python scripts](https://github.com/jivaniyash/MyMeet-Database-Project/tree/main/python%20files) for creation of [SQLite database](https://github.com/jivaniyash/MyMeet-Database-Project/tree/main/database%20file) using randomly generated synthetic data
