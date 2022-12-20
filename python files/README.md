@@ -1,4 +1,4 @@
-[raw_file.txt](https://github.com/jivaniyash/MyMeet-Database-Project/blob/main/python%20files/raw_file.txt) is a sample file containing list of first_name & last_name of users. (source: [http://random-name-generator.info/](https://www.randomlists.com/random-names?qty=50))
+[raw_file.txt](https://github.com/jivaniyash/MyMeet-Database-Project/blob/main/python%20files/raw_file.txt) is a sample file containing list of first_name & last_name of users. (source: [https://www.randomlists.com/random-names?qty=50](https://www.randomlists.com/random-names?qty=50))
 
 
 
