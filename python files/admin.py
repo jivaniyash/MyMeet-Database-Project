@@ -216,46 +216,21 @@ class SQL(data.SQLTableValues):
         else:
             print('Integrity Check:', check.fetchall())
 
-DB = SQL()
-DB.create_user_table()
-DB.create_friend_table()
-DB.create_note_table()
-DB.create_event_table()
-DB.create_comment_table()
-print()
-DB.integrity_check()
-print()
-DB.insert_user_record()
-DB.insert_friend_record()
-DB.insert_note_record()
-DB.insert_event_record()
-DB.insert_comment_record()
+def main:
+    DB = SQL()
+    DB.create_user_table()
+    DB.create_friend_table()
+    DB.create_note_table()
+    DB.create_event_table()
+    DB.create_comment_table()
+    print()
+    DB.integrity_check()
+    print()
+    DB.insert_user_record()
+    DB.insert_friend_record()
+    DB.insert_note_record()
+    DB.insert_event_record()
+    DB.insert_comment_record()
+    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-def select_tasks(self):
-        sql = 'SELECT * FROM user;'
-        
-        self.create_connection()
-        try:
-            self.cur.execute(sql)
-        except sqlite3.Error as e:
-            print(e)
-        rows = self.cur.fetchall()
-        for record in rows:
-            print(record)
-
+main()
