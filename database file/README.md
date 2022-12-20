@@ -36,3 +36,6 @@ comment table
 •	commenter_id INT
 •	timestamp TIMESTAMP
 •	text VARCHAR
+
+
+[results.sql](https://github.com/jivaniyash/MyMeet-Database-Project/blob/main/database%20file/results.sql) shows some sample queries and its description which can help analyst to run through the database for receiving important data for analysis.
